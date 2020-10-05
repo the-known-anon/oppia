@@ -443,6 +443,7 @@
 	"I18N_PREFERENCES_PREFERRED_AUDIO_LANGUAGE_EXPLAIN": "Ses çevirileri ile bir keşif yaptığınızda, eğer mümkünse, varsayılan olarak seçilecek olan dil budur.",
 	"I18N_PREFERENCES_PREFERRED_AUDIO_LANGUAGE_PLACEHOLDER": "Tercih Edilen Ses Dili",
 	"I18N_PREFERENCES_PREFERRED_DASHBOARD": "Tercih Edilen Gösterge Tablosu",
+	"I18N_PREFERENCES_PREFERRED_DASHBOARD_EXPLAIN": "Bu, girişte varsayılan olarak gösterilecek olan panodur.",
 	"I18N_PREFERENCES_PREFERRED_EXPLORATION_LANGUAGE": "Tercih Edilen Konu Anlatım Dilleri",
 	"I18N_PREFERENCES_PREFERRED_EXPLORATION_LANGUAGE_EXPLAIN": "Bu diller galeride konu anlatımı arattığında varsayılan olarak seçilecek.",
 	"I18N_PREFERENCES_PREFERRED_SITE_LANGUAGE": "Tercih Edilen Site Dili",
